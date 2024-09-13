@@ -7,9 +7,9 @@
 * Self-Taught Coder
 * Demanding Perfectionist
 
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/abinayasofficial)<br>
-📬 How to reach me: [abinayasofficial@gmail.com](mailto:abinayasofficial@gmail.com)<br>
-📝 [Resume](https://github.com/abinaya/RESUME/blob/main/abinaya%20official.pdf)<br>
+🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/vicky)<br>
+📬 How to reach me: [vickysofficial@gmail.com](mailto:vickysofficial@gmail.com)<br>
+📝 [Resume](https://github.com/vicky/RESUME/blob/main/vickysofficial.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
@@ -25,7 +25,7 @@
 
 _(click the button!)_
 
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:abinayasofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vicky) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:vickysofficial@gmail.com)
 
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
@@ -51,21 +51,21 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 -------------------------------------------------------------------------------------------------------
 ### 📊 My GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=abinaya6&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
+![](https://github-profile-trophy.vercel.app/?username=vicky&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
 
-![](https://github-profile-trophy.vercel.app/?username=abinaya6&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vicky&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abinaya6&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vicky&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vicky&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br>
 
 
-- 👨‍💻All of my projects are available at [https://github.com/abinaya6](https://github.com/abinaya6)
+- 👨‍💻All of my projects are available at [https://github.com/vicky](https://github.com/vicky)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@abinaya`](https://github.com/abinaya6)✨**
+✨[`@vicky`](https://github.com/vicky)✨**
 
 
 Projects: 
@@ -78,17 +78,17 @@ Projects:
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[Startup-Company-Machine-Learning with Streamlit ](https://github.com/abinaya6/Startup-Company-Machine-Learning)
+[Startup-Company-Machine-Learning with Streamlit ](https://github.com/vicky/Startup-Company-Machine-Learning)
 
 ## Project Overview:
 
-#### Ms. Abinaya have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
+#### Mr.vicky have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
 
 - ### Team Members
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
 )
 
-###  If you have any doubt or want to contribute feel free to hit me up on (abinayasofficial@gmail.com)
+###  If you have any doubt or want to contribute feel free to hit me up on (vickysofficial@gmail.com)
 
 
 # Startup-Company-Machine-Learning with Streamlit Demo
@@ -148,5 +148,5 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (abinayasofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (vickysofficial@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
